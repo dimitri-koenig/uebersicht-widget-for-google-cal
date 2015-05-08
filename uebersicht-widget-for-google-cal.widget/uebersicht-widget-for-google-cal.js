@@ -38,6 +38,7 @@ update: function(output, domEl) {
 			async: false,
 			data: {
 				'orderby': 'starttime',
+				'sortorder': 'ascending',
 				'start-min': todayAsString,
 				'start-max': tomorrowAsString,
 				'singleevents': 'true',
