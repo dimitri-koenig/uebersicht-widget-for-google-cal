@@ -64,7 +64,6 @@ renderCalData: function(data) {
 		$.each(data.feed.entry, function(index, entry) {
 			content += '<h3>' + entry.title.$t + '</h3>';
 			content += '<p>' + entry.summary.$t.substr(0, entry.summary.$t.indexOf('<br>')) + '</p>';
-			console.log(entry.summary.$t);
 		});
 	}
 
