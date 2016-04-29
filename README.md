@@ -1,4 +1,4 @@
-# [Übersicht](http://tracesof.net/uebersicht/) | Widget for multiple Google Cal Feeds
+# [Übersicht](http://tracesof.net/uebersicht/) | Widget for multiple Google Cal Feeds (UNMAINTAINED)
 
 ![Screenshot](/screenshot.png?raw=true)
 
